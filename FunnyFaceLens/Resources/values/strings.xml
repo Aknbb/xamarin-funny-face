@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hw3_Akin</string>
+    <string name="action_settings">Settings</string>
+  <string-array name="subjects_of_mail">
+    <item>Mentoring</item>
+    <item>Course Information</item>
+    <item>Project Participation</item>
+    <item>Objection</item>
+    <item>General</item>
+  </string-array>
+  <string-array name="messages_of_subjects">
+    <item>Dear Mentor, Could you help me about to selecting courses on this semester? Best regards.</item>
+    <item>When we will get information about that courses 2nd midterm results?</item>
+    <item>I wanna join that project.</item>
+    <item>Objection, serialization abra kadabra , last but not least; json parse json stringify</item>
+    <item>How u doin?</item>
+  </string-array>
+</resources>

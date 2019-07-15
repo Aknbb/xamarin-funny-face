@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5994f2</color>
+    <color name="colorPrimaryDark">#4c88c4</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorSendMail">#f7f7f7</color>
+    <color name="colorSendMailButton">#4ad67b</color>
+    <color name="colorSendMailText">#000000</color>
+</resources>

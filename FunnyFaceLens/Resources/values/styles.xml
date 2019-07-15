@@ -1,0 +1,73 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+  <style name="fragmentPageTextView">
+    <item name="android:textSize">15dp</item>
+    <item name="android:textColor">#FF000000</item>
+  </style>
+  <style name="fragmentPageMainLinearLayout">
+    <item name="android:layout_marginTop">0.0dp</item>
+    <item name="android:orientation">vertical</item>
+    <item name="android:layout_width">600dp</item>
+    <item name="android:background">#ffe9e9e9</item>
+    <item name="android:layout_height">300dp</item>
+    <item name="android:minWidth">25px</item>
+    <item name="android:minHeight">25px</item>
+  </style>
+  <style name="peoplePageGridlayout">
+    <item name="android:columnCount">2</item>
+    <item name="android:minWidth">25px</item>
+    <item name="android:minHeight">25px</item>
+  </style>
+  <style name="fragmentPageSecondLinearLayout">
+    <item name="android:layout_marginTop">41.0dp</item>
+    <item name="android:layout_marginLeft">34.5dp</item>
+    <item name="android:layout_marginRight">0.0dp</item>
+    <item name="android:orientation">vertical</item>
+    <item name="android:layout_width">220.0dp</item>
+    <item name="android:layout_height">127.0dp</item>
+    <item name="android:minWidth">25px</item>
+    <item name="android:minHeight">25px</item>
+  </style>
+  <style name="peoplePageFirstLinearLayout">
+    <item name="android:layout_marginTop">0.0dp</item>
+    <item name="android:layout_marginBottom">0.0dp</item>
+    <item name="android:orientation">horizontal</item>
+    <item name="android:layout_height">108dp</item>
+    <item name="android:minWidth">25px</item>
+    <item name="android:minHeight">25px</item>
+    <item name="android:background">#fffffbd6</item>
+  </style>
+  <style name="peoplePageImageView">
+    <item name="android:layout_marginTop">1.5dp</item>
+    <item name="android:layout_marginLeft">4.5dp</item>
+    <item name="android:layout_marginBottom">0.0dp</item>
+    <item name="android:layout_width">74.0dp</item>
+    <item name="android:layout_height">104.5dp</item>
+  </style>
+  <style name="peoplePageSecondLinearLayout">
+    <item name="android:layout_marginTop">4.5dp</item>
+    <item name="android:layout_marginLeft">4.5dp</item>
+    <item name="android:orientation">vertical</item>
+    <item name="android:layout_width">130.5dp</item>
+    <item name="android:minWidth">25px</item>
+    <item name="android:minHeight">25px</item>
+  </style>
+  <style name="peoplePageTextView">
+    <item name="android:textSize">8dp</item>
+    <item name="android:textColor">#FF000000</item>
+    <item name="android:layout_width">133.0dp</item>
+    <item name="android:layout_height">22.5dp</item>
+  </style>
+  <style name="fragmentPageImageView">
+    <item name="android:layout_marginTop">34.0dp</item>
+    <item name="android:layout_marginLeft">21.5dp</item>
+    <item name="android:layout_marginBottom">0.0dp</item>
+  </style>
+
+</resources>
