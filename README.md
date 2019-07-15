@@ -1,1 +1,2 @@
-# xamarin-funny-face
+# Xamarin Android Project
+![](/Readme/FunnyFace.gif)
